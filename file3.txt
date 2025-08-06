@@ -1,0 +1,2 @@
+this is a line in file 3
+
