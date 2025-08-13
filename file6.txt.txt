@@ -1,1 +1,2 @@
 this is a line in branch b1
+this is a line added in remote
